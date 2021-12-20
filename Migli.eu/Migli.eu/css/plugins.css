@@ -1,0 +1,28 @@
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+-----------------------------------------------------------------*/
+
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == owl.carousel == */
+@import url("plugins/owl.carousel.min.css");
+@import url("plugins/owl.theme.default.min.css");
+
+/* == animate css == */
+@import url("plugins/animate.min.css");
+
+/* == themify icons ==*/
+@import url("plugins/themify-icons.css");
+
+/* == flaticon icons ==*/
+@import url("plugins/flaticon.css");
+
+/* == et-lineicons icons ==*/
+@import url("plugins/et-lineicons.css");
+
+/* == helper classes == */
+@import url("plugins/helper.css");
+
+/* == fancybox == */
+@import url("plugins/fancybox.min.css");
